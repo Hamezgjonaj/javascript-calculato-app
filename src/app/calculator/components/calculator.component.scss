@@ -1,0 +1,57 @@
+.kz-btn {
+    width: 90%;
+    margin: 4px;
+}
+
+.kz-input-text {
+    margin-top: 3px;
+    width:96%;
+	margin-left:6px
+}
+
+.kz-pad-20 {
+	padding: 20px;
+}
+
+.col-xs-3, .col-xs-9 {
+	padding: 0px;
+
+}
+.row{
+
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: stretch;
+  background-color: #4b7a8f;
+}
+.cbtn {
+  background: rgb(172, 57, 57)
+}
+.ebtn {
+  background: rgb(0, 68, 102);
+}
+.nrbtn {
+  background: #4d4d4d;
+}
+.calbtn {
+  background: rgb(102, 102, 102);
+}
+.kz-input-text {
+  color: white;
+  background-color: black;
+}
+h4 {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: red;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.container-fluid {
+  display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    align-items: center;
+}
